@@ -1,0 +1,17 @@
+{
+    "name": "scraping-server",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "axios": "^1.0.0",
+        "cors": "^2.8.5",
+        "css": "^3.0.0",
+        "express": "^4.18.2",
+        "fs-extra": "^10.1.0",
+        "json2csv": "^5.0.7",
+        "puppeteer": "^19.0.0"
+    }
+}
